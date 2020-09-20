@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Контакты</string>
+
+    <string name="title_contact_create">Создание контакта</string>
+    <string name="photo">Фото</string>
+    <string name="action_add">добавить</string>
+    <string name="action_delete">удалить</string>
+    <string name="action_refactor">редактировать</string>
+    <string name="firstName">Имя</string>
+    <string name="lastName">Фамилия</string>
+    <string name="phone">Телефон</string>
+</resources>
